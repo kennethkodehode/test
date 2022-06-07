@@ -3,7 +3,10 @@ h1 {
 }
 
 p {
+  background-color: antiquewhite;
   color: blue;
   font-style: italic;
   padding: 3em;
+  border-radius: 1em;
+  cursor: pointer;
 }
